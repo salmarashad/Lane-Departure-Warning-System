@@ -15,7 +15,7 @@ The system uses light sensors to detect low-light conditions. When such conditio
 
 ## Demo 
 
-https://github.com/user-attachments/assets/b0260451-93fd-43e1-bb4b-f64092a0277a
+https://github.com/user-attachments/assets/50dba0a1-ee73-484f-8609-1e520e064200
 
 
 ## Contributors
