@@ -13,6 +13,11 @@ The car employs an obstacle detection sensor (ultrasonic) to identify potential 
 ### 3. Low-Light Adaptation:
 The system uses light sensors to detect low-light conditions. When such conditions are detected, the car's headlights automatically turn on, improving visibility and safety.
 
+## Demo 
+
+https://github.com/user-attachments/assets/b0260451-93fd-43e1-bb4b-f64092a0277a
+
+
 ## Contributors
 - Jana Saad
 - Nabila Sherif
